@@ -26,6 +26,8 @@ def waseda(s):
 	return "".join(r)
 
 print(waseda("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."))
+#L3312 i3342 d3233 s24 a214, c3331141443 a123231231 e224, s11 d3 e243231 t12333 i312121434 u4 l11331 e4 d32331 m1131 a22341.
+
 
 """
 file = open("words.txt","r") #早稲田の
